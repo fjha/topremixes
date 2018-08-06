@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello , Welcome To Music world !</string>
+    <string name="app_name">Ever Green  Party Songs and Music </string>
+
+
+    <string name="mobile_ad_id">ca-app-pub-3459004490451586~3323256518</string>
+
+    <string name="banner_ad_unit_id1">ca-app-pub-3459004490451586/6711837182</string>
+    <string name="banner_ad_unit_id2">ca-app-pub-3459004490451586/5879291183</string>
+    <string name="banner_ad_unit_id3">ca-app-pub-3459004490451586/4634615983</string>
+    <string name="banner_ad_unit_id4">ca-app-pub-3459004490451586/4701940888</string>
+    <string name="banner_ad_unit_id5">ca-app-pub-3459004490451586/7258632095</string>
+    <string name="banner_ad_unit_id6">ca-app-pub-3459004490451586/3070252877</string>
+
+    <!--Replace with your own ad unit id. -->
+
+    <string name="ad_unit_id1">ca-app-pub-3459004490451586/6680047596</string>
+    <string name="ad_unit_id2">ca-app-pub-3459004490451586/5861789948</string>
+    <string name="ad_unit_id3">ca-app-pub-3459004490451586/9682804825</string>
+    <string name="ad_unit_id4">ca-app-pub-3459004490451586/5995799112</string>
+    <string name="ad_unit_id5">ca-app-pub-3459004490451586/9168757368</string>
+    <string name="ad_unit_id6">ca-app-pub-3459004490451586/1980532482</string>
+    <string name="ad_unit_id7">ca-app-pub-3459004490451586/6753389159</string>
+    <string name="ad_unit_id8">ca-app-pub-3459004490451586/4024241893</string>
+     <string name="title_activity_front"> Ever Green Party Songs and Music</string>
+
+</resources>
